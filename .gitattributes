@@ -1,0 +1,2 @@
+# Reduce merge conflicts in continuously appended docs.
+README.md merge=union
